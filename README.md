@@ -36,6 +36,8 @@ My name is Linda Christi and I'm a Software Engineering Student/Cybersecurity En
 
 [3]: https://www.linkedin.com/in/linda-christi-freitas-de-bastos-23874a254/
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/LindaChristi/LindaChristi/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LindaChristi/LindaChristi/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
