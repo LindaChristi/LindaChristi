@@ -1,6 +1,6 @@
 ![Banner](banner.png)
 
-# Hello! <img src="https://github.com/LindaChristi/LindaChristi/blob/24dbcdb1ccee88bd237d4237bd464feea6d83075/wave.gif" width="30px" height="30px" />
+# Hello! <img src="https://github.com/LindaChristi/LindaChristi/blob/00c2242edd3f5e35a0e57f1e024fa0a3d2a219fe/wave.gif" width="30px" height="30px" />
 
 My name is Linda Christi and I'm a Software Engineering Student/Cybersecurity Enthusiast. I'm from Brazil, living in Rio de Janeiro. You can find me on [![LinkedIn][3.2]][3].
 
