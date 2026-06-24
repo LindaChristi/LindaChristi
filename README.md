@@ -23,9 +23,9 @@ My name is Linda Christi and I'm a Software Engineering Student/Cybersecurity En
 
 ## &#x1f4c8; GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LindaChristi&show_icons=true&theme=radical)
+| [![LindaChristi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LindaChristi&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight&locale=en)](https://github.com/LindaChristi?tab=repositories) | [![LindaChristi's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LindaChristi&layout=compact&hide_border=true&theme=tokyonight&locale=en)](https://github.com/LindaChristi?tab=repositories) |
+|:-:|:-:|
  
-
 <!-- link to social media icon -->
 
 <!-- icon without padding -->
