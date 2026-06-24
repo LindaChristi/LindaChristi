@@ -30,9 +30,12 @@ My name is Linda Christi and I'm a Software Engineering Student/Cybersecurity En
 
 <!-- icon without padding -->
 
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
+[3.2]: https://github.com/LindaChristi/LindaChristi/blob/fb6bcbeb8af2d465642fe5e77fe848090aa1b1f7/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- link social media account -->
 
 [3]: https://www.linkedin.com/in/linda-christi-freitas-de-bastos-23874a254/
+
+## 📈 Contribution Graph
+
+![Snake animation](https://github.com/LindaChristi/LindaChristi/blob/output/github-contribution-grid-snake.svg)
